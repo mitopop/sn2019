@@ -1,0 +1,69 @@
+
+#header {
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+}
+
+#header_content {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+  height: 168px;
+  background-color: rgba(255, 205, 0, 0.8);
+}
+
+#header_content > div {
+  width: calc(100% - 120px);
+  margin: 0 auto;
+}
+
+#header_content #phone_icn {
+  opacity: 0.5;
+}
+
+#header_content ul {
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+}
+
+#header_content #agent_container {
+  flex-grow: 1;
+}
+
+#header_content li {
+  list-style: none;
+  padding-right: 1em;
+  display: inline-block;
+}
+
+#header_content #agent_name {
+  font-size: 24px;
+  text-transform: uppercase;
+  margin-top: -5px;
+}
+
+#header_content #agent_phone {
+  font-size: 24px;
+  color: #666;
+  margin-top: -7px;
+  margin-bottom: 8px;
+}
+
+#header_content #agent_address {
+  font-size: 18px;
+  color: #666;
+  line-height: 24px;
+}
+
+#header_content #top_nav {
+  display: flex;
+  width: 200px;
+  min-width: 100px;
+  height: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 25px;
+}

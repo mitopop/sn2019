@@ -1,0 +1,37 @@
+#app {
+  position: relative;
+  margin: 0 auto;
+}
+
+p,
+label {
+  //font-family: Georgia, Times, 'Times New Roman', serif;
+  line-height: 1.5em;
+}
+
+#background_outer {
+  position: relative;
+  margin: 0 auto;
+  width: 1px;
+  overflow: visible;
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+
+#background_inner {
+  position: absolute;
+  width: 1820px;
+  top: 0;
+  left: -910px;
+}
+
+.section {
+  position: relative;
+}
+
+#MainContent {
+  margin-top: 200px;
+}

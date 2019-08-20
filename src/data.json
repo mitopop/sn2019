@@ -1,0 +1,113 @@
+{
+    "contact": [
+        {
+            "_id": "3",
+            "text": "<p><strong>Brian Goldberg\nPhone: <a href=\"tel:3106599965\">(310) 659-9965</a> </strong> </p>\n<p>WPA | Worldwide Production Agency<br />\n144 North Robertson Blvd., Suite A<br />\nWest Hollywood, CA 90048</p>",
+            "agent_name": "Brian Goldberg",
+            "agent_phone": "(310) 659-9965",
+            "agency_name": "WPA | Worldwide Production Agency",
+            "agency_street": "144 North Robertson Blvd., Suite A",
+            "agency_city": "West Hollywood",
+            "agency_zip": "CA 90048",
+            "_page": "*",
+            "_pageID": "2",
+            "_sortvalue": "1000"
+        }
+    ],
+    "navigation": [
+        {
+            "_id": "1",
+            "dropdown": [
+                {
+                    "id": "reel",
+                    "url": "../reel",
+                    "link_text": "Reel"
+                },
+                {
+                    "id": "about",
+                    "url": "../about",
+                    "link_text": "About"
+                },
+                {
+                    "id": "contact",
+                    "url": "../contact",
+                    "link_text": "Contact"
+                },
+                {
+                    "id": "resume",
+                    "url": "http://www.seaganngai.com/perch/resources/seaganresumesept2017.pdf",
+                    "link_text": "Resume 2017"
+                },
+                {
+                    "id": "imdb",
+                    "url": "https://www.imdb.com/name/nm1970626/#editor",
+                    "link_text": "IMDB"
+                },
+                {
+                    "id": "linkedin",
+                    "url": "https://www.linkedin.com/in/seaganngai/",
+                    "link_text": "LinkedIn"
+                }
+            ],
+            "_page": "*",
+            "_pageID": "2",
+            "_sortvalue": "1000"
+        }
+    ],
+    "video": [
+        {
+            "_id": "2",
+            "videos": [
+                {
+                    "show_icon": {
+                        "assetID": "7",
+                        "title": "Warehouse 13",
+                        "_default": "/perch/resources/thumbnails/warehouse13.svg",
+                        "bucket": "thumbnails",
+                        "path": "warehouse13.svg",
+                        "size": 3348,
+                        "w": 137,
+                        "h": 42,
+                        "mime": "image/svg+xml",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 45,
+                                "target_w": 150,
+                                "target_h": 150,
+                                "density": 2,
+                                "path": "warehouse13.svg",
+                                "size": 3348,
+                                "mime": "image/svg"
+                            }
+                        }
+                    },
+                    " id": null,
+                    "show_title": "Warehouse 13",
+                    "show_seasons": "Season 5",
+                    "clip_title": "Gun Battle",
+                    "clip_episode": "Chase (S1:E2)",
+                    "clip_duration": "2:30",
+                    "director": "Tawnia McKiernan",
+                    "showrunner": "Andrew Kreisberg",
+                    "studio": "NBC Universal"
+                }
+            ],
+            "_page": "/reel/index.php",
+            "_pageID": "3",
+            "_sortvalue": "1000"
+        }
+    ],
+    "about": [
+        {
+            "_id": "4",
+            "profile_image": "/perch/resources/images/profileimage.png",
+            "about_title": "ABOUT SEAGAN",
+            "_title": "ABOUT SEAGAN",
+            "about_body": "<p>Seagan Ngai is a veteran film and television editor. She has over a dozen seasons with various series. Her success can be quantifiably measured \u2014Her network notes are often two-thirds less than the other editors on the post team for just about every episode for every series. Seagan\u2019s reputation supercedes her skill since directors who get a chance to work with her often say, \u2018I\u2019m so glad I get to work with you!\u2019 Seagan has the triple threat, she is technologically skilled, has a great sense fo taste for selecting key performances, and is extremely delightful to work with.</p>",
+            "_page": "/about/index.php",
+            "_pageID": "5",
+            "_sortvalue": "1000"
+        }
+    ]
+}

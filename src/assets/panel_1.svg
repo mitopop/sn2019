@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="724.1276" height="605.8011" viewBox="0 0 724.1276 605.8011">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.05;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #1d2423;
+      }
+
+      .cls-10, .cls-5 {
+        font-size: 32px;
+      }
+
+      .cls-5 {
+        fill: #999;
+        font-family: DIN-Medium, DIN;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.0322em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.0171em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        font-family: DIN-Regular, DIN;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.008em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: -0.019em;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.0762em;
+      }
+
+      .cls-15 {
+        letter-spacing: -0.0251em;
+      }
+
+      .cls-16 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-17 {
+        font-size: 120px;
+        fill: #f0f;
+        font-family: LTCGlobeGothic-Bold, LTCGlobeGothic Bold;
+        font-weight: 700;
+        letter-spacing: 0.056em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0.05em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0.03em;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle class="cls-1" cx="304.589" cy="305.8677" r="215.063" transform="translate(-127.0691 304.9635) rotate(-45)"/>
+    </clipPath>
+  </defs>
+  <title>Asset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g class="cls-2">
+        <g class="cls-3">
+          <g>
+            <rect class="cls-4" x="441.1313" y="-63.6347" width="6.4681" height="450.1424" transform="translate(15.998 361.4959) rotate(-44.9998)"/>
+            <rect class="cls-4" x="426.241" y="-48.7431" width="6.4674" height="450.1417" transform="translate(1.1071 355.3282) rotate(-44.9998)"/>
+            <rect class="cls-4" x="411.3503" y="-33.8522" width="6.4672" height="450.1415" transform="translate(-13.7836 349.1606) rotate(-44.9998)"/>
+            <rect class="cls-4" x="396.4591" y="-18.961" width="6.4672" height="450.1415" transform="translate(-28.6742 342.9939) rotate(-45)"/>
+            <rect class="cls-4" x="381.5684" y="-4.0704" width="6.4672" height="450.1418" transform="translate(-43.5651 336.8257) rotate(-45)"/>
+            <rect class="cls-4" x="366.6765" y="10.8203" width="6.4674" height="450.1417" transform="translate(-58.4558 330.6581) rotate(-45.0002)"/>
+            <rect class="cls-4" x="351.7863" y="25.7113" width="6.4665" height="450.1423" transform="translate(-73.347 324.4904) rotate(-45.0002)"/>
+            <rect class="cls-4" x="336.8942" y="40.6024" width="6.4681" height="450.1424" transform="translate(-88.2386 318.3195) rotate(-44.9998)"/>
+            <rect class="cls-4" x="322.004" y="55.494" width="6.4672" height="450.1418" transform="translate(-103.1296 312.1518) rotate(-44.9998)"/>
+            <rect class="cls-4" x="307.1129" y="70.3857" width="6.4678" height="450.1409" transform="translate(-118.0205 305.9854) rotate(-45)"/>
+            <rect class="cls-4" x="292.2233" y="85.2772" width="6.4678" height="450.1394" transform="translate(-132.9109 299.8171) rotate(-44.9998)"/>
+            <rect class="cls-4" x="277.3304" y="100.1663" width="6.468" height="450.1426" transform="translate(-147.8024 293.6503) rotate(-45.0002)"/>
+            <rect class="cls-4" x="262.4418" y="115.059" width="6.4668" height="450.1395" transform="translate(-162.6927 287.4806) rotate(-44.9998)"/>
+            <rect class="cls-4" x="247.5492" y="129.9484" width="6.4664" height="450.1423" transform="translate(-177.5844 281.314) rotate(-45.0002)"/>
+            <rect class="cls-4" x="232.6591" y="144.8406" width="6.4674" height="450.1401" transform="translate(-192.474 275.1413) rotate(-44.9994)"/>
+            <rect class="cls-4" x="217.7669" y="159.7311" width="6.4672" height="450.1418" transform="translate(-207.3662 268.9754) rotate(-44.9998)"/>
+            <rect class="cls-4" x="202.8769" y="174.6237" width="6.468" height="450.1392" transform="translate(-222.257 262.8087) rotate(-44.9998)"/>
+            <rect class="cls-4" x="187.985" y="189.5132" width="6.4672" height="450.1415" transform="translate(-237.1486 256.6411) rotate(-45)"/>
+            <rect class="cls-4" x="173.0953" y="204.405" width="6.4681" height="450.1394" transform="translate(-252.0381 250.4722) rotate(-44.9998)"/>
+            <rect class="cls-4" x="158.2027" y="219.2946" width="6.4666" height="450.1425" transform="translate(-266.9312 244.3054) rotate(-45.0002)"/>
+          </g>
+        </g>
+      </g>
+      <text class="cls-5" transform="translate(161.3893 432.6992)">(P<tspan class="cls-6" x="30.2715" y="0">r</tspan><tspan x="43.2881" y="0">onoun</tspan><tspan class="cls-7" x="132.1826" y="0">c</tspan><tspan x="147.1553" y="0">ed: N-E</tspan><tspan class="cls-8" x="255.5059" y="0">y</tspan><tspan class="cls-9" x="270.1602" y="0">e)</tspan></text>
+      <text class="cls-10" transform="translate(481.5495 336.4882)">Edi<tspan class="cls-11" x="44.7354" y="0">t</tspan><tspan class="cls-12" x="55.1016" y="0">or </tspan><tspan class="cls-13" x="93.5" y="0">f</tspan><tspan class="cls-12" x="102.9395" y="0">or </tspan><tspan x="0" y="32">Film &amp; </tspan><tspan class="cls-14" x="103.8711" y="32">T</tspan><tspan x="118.9688" y="32">e</tspan><tspan class="cls-15" x="135.9287" y="32">l</tspan><tspan class="cls-16" x="144.6279" y="32">e</tspan><tspan x="161.2676" y="32">vision</tspan></text>
+      <text class="cls-17" transform="translate(157.5495 257.4882)">S<tspan class="cls-18" x="65.8789" y="0">ea</tspan><tspan class="cls-19" x="195.8379" y="0">g</tspan><tspan class="cls-18" x="266.5166" y="0">an</tspan><tspan class="cls-18"><tspan x="0" y="125">Ngai</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

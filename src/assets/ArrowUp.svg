@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="625.4227" height="28.0866" viewBox="0 0 625.4227 28.0866">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #333;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <title>Asset 3</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Resume_section" data-name="Resume section">
+      <g>
+        <line class="cls-1" y1="27.0866" x2="625.3105" y2="27.0866"/>
+        <polygon class="cls-2" points="609.784 0 601.965 13.543 594.146 27.087 609.784 27.087 625.423 27.087 617.604 13.543 609.784 0"/>
+      </g>
+    </g>
+  </g>
+</svg>

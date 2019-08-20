@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425.6207" height="425.6207" viewBox="0 0 425.6207 425.6207">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-1 {
+        stroke: #1050ca;
+      }
+
+      .cls-2 {
+        fill: #fc0;
+        opacity: 0.75;
+      }
+
+      .cls-3 {
+        stroke: #17defe;
+      }
+
+      .cls-4 {
+        font-size: 32px;
+        fill: #333;
+        font-family: LTCGlobeGothic-Regular, LTCGlobeGothic Regular;
+        letter-spacing: 0.005em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0.026em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.013em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.052em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0.016em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0.014em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0.024em;
+      }
+
+      .cls-14 {
+        font-size: 40px;
+        letter-spacing: 0.02em;
+      }
+    </style>
+  </defs>
+  <title>Asset 6</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <circle class="cls-1" cx="212.8103" cy="212.8103" r="190.8661"/>
+        <circle class="cls-2" cx="212.8103" cy="212.8103" r="157.2523"/>
+        <circle class="cls-3" cx="212.8103" cy="212.8103" r="207.7796"/>
+        <text class="cls-4" transform="translate(173.0783 120.2037) rotate(-9.0891)">P<tspan class="cls-5" x="17.1836" y="0">ut</tspan><tspan class="cls-6"><tspan x="-80.9756" y="38.4004">S</tspan><tspan class="cls-5" x="-64.3682" y="38.4004">eaga</tspan><tspan class="cls-7" x="2.959" y="38.4004">n</tspan><tspan class="cls-8" x="20.3037" y="38.4004">’</tspan><tspan class="cls-9" x="25.2637" y="38.4004">s tale</tspan><tspan class="cls-10" x="98.1582" y="38.4004">n</tspan><tspan class="cls-9" x="116.4297" y="38.4004">t</tspan></tspan><tspan class="cls-11"><tspan x="-33.1836" y="76.7998">t</tspan><tspan class="cls-9" x="-22.1436" y="76.7998">o </tspan><tspan class="cls-12" x="3.4883" y="76.7998">w</tspan><tspan class="cls-5" x="27.3594" y="76.7998">o</tspan><tspan class="cls-13" x="45.5674" y="76.7998">r</tspan><tspan class="cls-9" x="56.7998" y="76.7998">k </tspan></tspan><tspan class="cls-9"><tspan x="-3.2324" y="115.2002">and</tspan><tspan x="-74.5107" y="153.5996">lock episodes </tspan></tspan><tspan class="cls-14"><tspan x="-53.915" y="201.5996">QuickER</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
