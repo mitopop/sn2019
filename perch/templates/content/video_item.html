@@ -1,0 +1,35 @@
+<section id="video_items">
+    <ul>
+        <perch:repeater id="videos" label="Videos">
+            <li>
+                <img src="<perch:content id="show_icon" type="image" label="Show Icon" bucket="thumbnails">">
+
+                <a href="#" onclick='getVideo(this);return false;' data-item="<perch:content id="id" type="text" label="Vimeo Id" />">
+                		<perch:content id="show_title" type="text" label="Show Title"/>
+                </a>
+                <p>
+                    <perch:content id="show_seasons" type="text" label="Show Seasons" />
+                </p>
+
+                <p>
+                    <perch:content id="clip_title" type="text" label="Clip Title" />
+                </p>
+                <p>
+                    <perch:content id="clip_episode" type="text" label="Clip Episode" />
+                </p>
+                <p>
+                    <perch:content id="clip_duration" type="text" label="Clip Duration" />
+                </p>
+                <p>
+                    <perch:content id="director" type="text" label="Director" />
+                </p>
+                <p>
+                    <perch:content id="showrunner" type="text" label="Writer/Showrunner" />
+                </p>
+                <p>
+                    <perch:content id="studio" type="text" label="Studio" />
+                </p>
+            </li>
+        </perch:repeater>
+    </ul>
+</section>
